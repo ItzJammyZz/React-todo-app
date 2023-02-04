@@ -1,3 +1,6 @@
+
+// This file can be ignored, it was failed attempt until I finally corrected it. The correct one are in src/components/Todo.js
+
 const editText = ()=> {
     changeText();
 };  
